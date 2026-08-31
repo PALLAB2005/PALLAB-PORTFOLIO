@@ -2,8 +2,13 @@
 
 <div align="center">
 
-<img src="./PALLAB-PORTOLIO/images/Demo.png" alt="Pallab Portfolio" width="900"/>
+<img
+  src="https://raw.githubusercontent.com/PALLAB2005/PALLAB-PORTFOLIO/main/PALLAB-PORTOLIO/images/Demo.png"
+  alt="Pallab Portfolio"
+  width="900"
+/>
 
+</div>
 ### Modern • Interactive • Responsive • Performance-Focused
 
 A modern personal portfolio website showcasing my **Full-Stack Development, Frontend Development, UI/UX design, projects, skills, and experience**.
