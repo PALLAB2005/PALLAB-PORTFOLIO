@@ -1,11 +1,9 @@
 # 🚀 Pallab — Creative Full-Stack Developer Portfolio
 
-
-
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/PALLAB2005/PALLAB-PORTFOLIO/main/PALLAB-PORTOLIO/images/Demo.png"
+  src="./PALLAB-PORTFOLIO/images/Demo.png"
   alt="Pallab Portfolio"
   width="900"
 />
