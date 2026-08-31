@@ -1,5 +1,13 @@
 # 🚀 Pallab — Creative Full-Stack Developer Portfolio
 
+
+<div align="center">
+
+<img src="./images/Demo.png" alt="Pallab Portfolio" width="900">
+
+### Modern • Interactive • Responsive • Performance-Focused
+
+</div>
 <div align="center">
 
 <img src="images/Demo.png" alt="Pallab Portfolio" width="900"/>
