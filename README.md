@@ -174,12 +174,15 @@ PALLAB-PORTFOLIO/
         ├── 🖼️ Game Dashboard Design.jpg
         ├── 🖼️ Task manager app.jpg
         └── ...
+```
+```text
 <div align="center">
 
-🚀 Built with passion, creativity & code.
+### 🚀 Built with Passion, Creativity & Code
 
-Made with ❤️ by Pallab Bag
+**Made with ❤️ by Pallab Bag**
 
-⭐ Star this repository if you found it useful!
+⭐ **Star this repository if you found it useful!**
 
 </div>
+```
