@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="./PALLAB-PORTFOLIO/images/Demo.png"
+  src="./images/Demo.png"
   alt="Pallab Portfolio"
   width="900"
 />
@@ -15,7 +15,7 @@ A modern personal portfolio website showcasing my **Full-Stack Development, Fron
 
 <br/>
 
-<a href="404">
+<a href="https://pallab-portfolio-two.vercel.app/">
   <strong>🌐 Live Demo</strong>
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -174,3 +174,12 @@ PALLAB-PORTFOLIO/
         ├── 🖼️ Game Dashboard Design.jpg
         ├── 🖼️ Task manager app.jpg
         └── ...
+<div align="center">
+
+🚀 Built with passion, creativity & code.
+
+Made with ❤️ by Pallab Bag
+
+⭐ Star this repository if you found it useful!
+
+</div>
