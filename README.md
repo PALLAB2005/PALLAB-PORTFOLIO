@@ -15,7 +15,7 @@ A modern personal portfolio website showcasing my **Full-Stack Development, Fron
 
 <br/>
 
-<a href="https://silver-pothos-bdbfe5.netlify.app/">
+<a href="404">
   <strong>🌐 Live Demo</strong>
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
