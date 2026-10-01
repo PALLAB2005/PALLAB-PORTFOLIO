@@ -64,6 +64,7 @@
     color: white;
 }
 
+
 .share-panel {
     width: min(100%, 1100px);
     min-height: 620px;
@@ -417,6 +418,8 @@
     transform: translateY(0) !important;
 }
 
+=======
+>>>>>>> b9771ad2c93644418bebcf6ebe3b4effc5854fcc
 /* Spotlight & Hover Effects */
 .spotlight-card {
     position: relative;
