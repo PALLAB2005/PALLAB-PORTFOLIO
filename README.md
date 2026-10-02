@@ -173,6 +173,7 @@ PALLAB-PORTFOLIO/
         ├── 🖼️ Cleveroad.jpg
         ├── 🖼️ Game Dashboard Design.jpg
         ├── 🖼️ Task manager app.jpg
+        ├── 🖼️ PALLAB_QR.SVG
         └── ...
 ```
 ```text
