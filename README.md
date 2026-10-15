@@ -27,7 +27,7 @@ A modern personal portfolio website showcasing my **Full-Stack Development, Fron
 
 ---
 
-## 👋 About
+## 👋 About:
 
 Welcome to my personal developer portfolio.
 
@@ -46,9 +46,9 @@ The goal is to create a digital experience that is not only visually appealing b
 
 ---
 
-# ✨ Features
+# ✨ Features:
 
-## 🎨 Modern UI & Design
+## 🎨 Modern UI & Design:
 
 - 🌙 Dark / Light Mode
 - 📱 Fully Responsive Design
