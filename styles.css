@@ -30,7 +30,7 @@
 }
 
 /* Toast Animation */
-.toast-enter 
+.toast-enter {
     transform: translateY(100%) scale(0.9);
     opacity: 0;
 }
