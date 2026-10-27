@@ -609,7 +609,7 @@
 }
 
 /* Hero Profile Image */
-.hero-profile-img 
+.hero-profile-img {
     animation: profileImageEnter 0.9s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
     animation-delay: 0.4s;
 }
